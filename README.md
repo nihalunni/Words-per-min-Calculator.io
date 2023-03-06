@@ -1,3 +1,3 @@
 # WPMCALCU.github.io
  WPM calculator by team reflex
-This project has some editing needed to be done for the log in page as it has some errors but the homepage and the other sontents work perfectly fine this website calculates the words typed by a user and gives the results it even provides tips for the users to improve their typing skills
+Although there are some problems on the log-in page, the project's homepage and other contents don't need any changing at all. This website calculates the words that a user types and displays the results. It also offers users advice on how to become more proficient at typing.
